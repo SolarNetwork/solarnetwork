@@ -7,4 +7,4 @@ project information][wiki] and governance. See [solarnetwork.github.io][site]
 for more information.
 
  [wiki]: https://github.com/SolarNetwork/solarnetwork/wiki
- [site]: http://solarnetwork.github.io/
+ [site]: https://solarnetwork.net/
